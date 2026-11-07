@@ -1,0 +1,10 @@
+outcome,B_unadjusted,B_adjusted,source,supporting_script_prefix,status
+Assertiveness,-0.05,-0.05,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,01 ASS,historical; not independently refitted
+Curiosity,-0.06,-0.05,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,02 CUR,historical; not independently refitted
+Emotional control,-0.02,-0.10,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,03 EMOCO,historical; not independently refitted
+Stress resistance,0.06,-0.03,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,04 STR,historical; not independently refitted
+Empathy,-0.09,-0.04,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,08 EMP,historical; not independently refitted
+Trust,-0.02,-0.04,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,09 TRU,historical; not independently refitted
+Cooperation,-0.09,-0.09,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,05 COO,historical; not independently refitted
+Self-control,-0.12,-0.11,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,06 SCO,historical; not independently refitted
+Perseverance,-0.10,-0.12,Willert 2024 thesis; Appendix A Table 1; PDF pages 47-48,07 PER,historical; not independently refitted

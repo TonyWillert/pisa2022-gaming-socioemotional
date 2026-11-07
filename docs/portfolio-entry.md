@@ -1,0 +1,5 @@
+# Digital gaming and socio-emotional skills
+
+How does everyday gaming relate to adolescents' social and emotional skills? In my master's thesis, I analysed PISA 2022 questionnaire data covering 370,972 student records across 48 countries and regions. My work combined R-based data preparation, measurement construction, multiple imputation and multilevel modelling to examine nine competencies while accounting for country clustering and student background.
+
+The thesis reported mostly small negative associations. The relationship with stress resistance changed direction after adjustment, highlighting the importance of model specification. This portfolio case study presents selected original findings alongside a corrected, reproducible descriptive figure and documented code examples. It also explains the limits of cross-sectional self-reports and the incomplete reproduction of the original server analysis. The project demonstrates my approach to turning a substantive research question into explicit analytical decisions and interpreting results in proportion to the evidence.

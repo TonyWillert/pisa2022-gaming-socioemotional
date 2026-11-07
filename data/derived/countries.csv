@@ -1,0 +1,49 @@
+cid,country,n_per_imputation,imputations
+8,Albania,6129,10
+32,Argentina,12111,10
+36,Australia,13437,10
+40,Austria,6151,10
+56,Belgium,8286,10
+76,Brazil,10798,10
+96,Brunei Darussalam,5576,10
+100,Bulgaria,6107,10
+152,Chile,6488,10
+158,Chinese Taipei,5857,10
+188,Costa Rica,6113,10
+191,Croatia,6135,10
+203,Czech Republic,8460,10
+208,Denmark,6200,10
+214,Dominican Republic,6868,10
+233,Estonia,6392,10
+246,Finland,10239,10
+268,Georgia,6583,10
+276,Germany,6116,10
+300,Greece,6403,10
+344,Hong Kong (China),5907,10
+348,Hungary,6198,10
+352,Iceland,3360,10
+372,Ireland,5569,10
+380,Italy,10552,10
+398,Kazakhstan,19769,10
+400,Jordan,7799,10
+410,Korea,6454,10
+428,Latvia,5373,10
+440,Lithuania,7257,10
+446,Macao (China),4384,10
+458,Malaysia,7069,10
+470,Malta,3127,10
+504,Morocco,6867,10
+591,Panama,4544,10
+616,Poland,6011,10
+642,Romania,7364,10
+682,Saudi Arabia,6928,10
+702,Singapore,6606,10
+703,Slovak Republic,5824,10
+705,Slovenia,6721,10
+724,Spain,30800,10
+756,Switzerland,6829,10
+764,Thailand,8495,10
+792,Türkiye,7250,10
+826,United Kingdom,12972,10
+858,Uruguay,6618,10
+901,Ukrainian regions (18 of 27),3876,10
